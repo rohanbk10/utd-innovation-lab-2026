@@ -19,6 +19,7 @@ psycopg2-binary>=2.9.0
 # Twilio WhatsApp Integration
 twilio>=8.10.0
 
+
 # Google Maps API
 googlemaps>=4.10.0
 
@@ -28,4 +29,5 @@ google-api-python-client>=2.0.0
 
 # Optional: Testing
 # pytest>=7.4.0
+python-multipart>=0.0.5
 # httpx>=0.25.0
