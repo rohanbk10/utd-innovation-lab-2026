@@ -2,7 +2,7 @@ services:
   - type: web
     name: jkyog-whatsapp-bot
     env: python
-    rootDir: "Week3 Files"  # ADD THIS LINE if files are in a subdirectory
+    rootDir: "Week3-Files"  # ADD THIS LINE if files are in a subdirectory
     region: oregon
     plan: free
     buildCommand: pip install -r requirements.txt
